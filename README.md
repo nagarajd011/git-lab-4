@@ -1,4 +1,1 @@
-# git-lab-4
-description is description
-This is the change just do it
-ok take it
+[![Build and Test](https://github.com/nagarajd011/git-lab-4/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarajd011/git-lab-4/actions/workflows/ci.yml)
